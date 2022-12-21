@@ -1,6 +1,5 @@
 ---
 title: 'Mobile & Hardware Wallets'
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - 'Mobile Wallets'

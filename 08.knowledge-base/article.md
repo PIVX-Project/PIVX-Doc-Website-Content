@@ -1,6 +1,5 @@
 ---
 title: 'Knowledge Base'
-date: '01-11-2021 00:00'
 taxonomy:
     category:
         - 'Knowledge Base'

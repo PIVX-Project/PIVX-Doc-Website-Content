@@ -1,6 +1,5 @@
 ---
 title: Staking
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - Staking

@@ -1,6 +1,5 @@
 ---
 title: 'Test Wallet'
-date: '14-10-2021 00:00'
 slug: flits-buy-gift-cart
 taxonomy:
     category:

@@ -1,6 +1,5 @@
 ---
 title: 'General Masternodes'
-date: '17-01-2022 00:00'
 taxonomy:
     category:
         - 'Masternodes And Governance'

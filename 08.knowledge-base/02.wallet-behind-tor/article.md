@@ -1,6 +1,5 @@
 ---
 title: 'Setting up a PIVX Wallet/Masternode behind Tor'
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - 'Knowledge Base'

@@ -1,6 +1,5 @@
 ---
 title: 'Install Tabs'
-date: '14-10-2021 00:00'
 taxonomy:
     author:
         - 'The PIVX Team'

@@ -1,6 +1,5 @@
 ---
 title: 'Setup Cold Staking With Ledger Hardware Wallet'
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - 'Mobile Wallets'

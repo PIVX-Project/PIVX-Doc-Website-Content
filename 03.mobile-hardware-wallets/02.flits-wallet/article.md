@@ -1,6 +1,5 @@
 ---
 title: 'Buying an Amazon card with the Flits Wallet'
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - 'Mobile Wallets'

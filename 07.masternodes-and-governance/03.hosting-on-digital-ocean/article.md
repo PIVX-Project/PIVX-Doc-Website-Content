@@ -1,6 +1,5 @@
 ---
 title: 'Hosting a PIVX Masternode On Digital Ocean '
-date: '14-10-2021 00:00'
 taxonomy:
     category:
         - 'Masternodes And Governance'

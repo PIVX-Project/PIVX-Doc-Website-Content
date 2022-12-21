@@ -1,7 +1,5 @@
 ---
 title: 'Run PIVX Core Wallet as a service on Linux'
-date: '01-11-2021 00:00'
-description: 'Run PIVX Core Wallet as a service on Linux'
 image: troubleshooting.png
 taxonomy:
     category:
