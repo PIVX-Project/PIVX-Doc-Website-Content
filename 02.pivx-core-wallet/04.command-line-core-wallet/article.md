@@ -39,8 +39,8 @@ The pivxd server logs all its activities in the following file:
 Description=PIVX_MN
 After=network.target [Service]
 User=piv
-ExecStart=/home/piv/pivx-5.3.2/bin/./pivxd -daemon
-ExecStop=/home/piv/pivx-5.3.2/bin/./pivx-cli stop
+ExecStart=/home/piv/pivx-[version]/bin/./pivxd -daemon
+ExecStop=/home/piv/pivx-[version]/bin/./pivx-cli stop
 TimeoutSec=15min
 Type=forking
 Restart=on-failure
