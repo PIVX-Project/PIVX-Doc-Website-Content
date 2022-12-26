@@ -46,11 +46,9 @@ From inside the Digital Ocean dashboard, you can invoke a command line console f
 
 **Step 2.** Next, you should add 1 GB of swap space to the system. This may be needed during the initial sync of the PIVX blockchain. To add 1 GB swap space to your VPS, follow the instructions here: [https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04).
 
-**Step 3.** Get the latest PIVX wallet software ([version] at the time of this writing) using the following command:
+**Step 3.** Get the latest PIVX wallet software using the following command:
 
 `cd ~ && wget https://github.com/PIVX-Project/PIVX/releases/download/v[version]/pivx-[version]-x86_64-linux-gnu.tar.gz`
-
-If the latest release is something other than [version], replace “[version]” with the latest version number in the two places it is mentioned in the above line and similar places in the following steps—if past naming trends hold, this will work.
 
 **Step 4.** Untar and unzip the file you just downloaded to install the wallet software:
 
