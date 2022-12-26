@@ -10,7 +10,7 @@ taxonomy:
 # Hosting a PIVX Masternode On Digital Ocean 
 # *With PIV Held Using a Ledger*
 
-##Background
+## Background
 
 A PIVX masternode is configured wallet software running online backed by 10,000 PIV that lets you to vote on budget proposals and earn rewards. Running one is a great way to both support PIVX and add to your holdings.
 
