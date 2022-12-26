@@ -7,7 +7,7 @@ taxonomy:
         - 'The PIVX Team'
 ---
 
-!! NOTE: Starting with version 5.3.0, PIVX Core only supports Tor version 3 hidden services (Tor v3). Tor v2 addresses are ignored by PIVX Core and neither relayed nor stored.
+!! NOTE: Starting with version [version], PIVX Core only supports Tor version 3 hidden services (Tor v3). Tor v2 addresses are ignored by PIVX Core and neither relayed nor stored.
 
 ## Install & configure Tor on your system:
 
