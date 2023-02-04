@@ -97,7 +97,7 @@ There are five entries in the above, marked with <> angle braces. These you will
 
 `tail -f ~/.pivx/debug.log`
 
-Wait either for the message “Sync has finished” or for the message that the block number at the top of the PIVX blockchain has been accepted. You can learn this block from the official PIVX explorer at [https://explorer.pivx.link](https://explorer.pivx.link), where it is labeled “Last Indexed Block”. When this check passes, your masternode software is running and current!
+Wait either for the message “Sync has finished” or for the message that the block number at the top of the PIVX blockchain has been accepted. You can find this block number from a block explorer like [https://zkbitcoin.com/](https://zkbitcoin.com), where it is labeled “Last Indexed Block”. When this check passes, your masternode software is running and current!
 
 ## Posting 10,000 PIVX to Start the Masternode
 
