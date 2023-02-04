@@ -44,7 +44,7 @@ You can then transfer your PIV from the exchange to your core wallet.
 
 All blockchain communities that are decentralized have some sort of reward system for people who help secure their network. In PIVX, anyone who has PIV can help secure the network and is also able to receive rewards for their efforts by contributing to the proof-of-stake mechanism.  
 
-The first two methods below are two ways you can use your PIV to earn rewards. If you don’t have any PIVs to participate in the network, you may be able to earn PIVs by helping the community.
+The first two methods below are ways you can use your PIV to earn rewards. If you don’t have any PIVs to participate in the network, you may be able to earn PIVs by helping the community.
 
 #### Method 1 – Running a Masternode
 [Running a Masternode](/masternodes-and-governance) which requires 10,000 PIV.
