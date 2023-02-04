@@ -10,7 +10,7 @@ taxonomy:
 # Hosting a PIVX Masternode On Digital Ocean 
 # *With PIV Held Using a Ledger*
 
-##Background
+## Background
 
 A PIVX masternode is configured wallet software running online backed by 10,000 PIV that lets you to vote on budget proposals and earn rewards. Running one is a great way to both support PIVX and add to your holdings.
 
@@ -46,15 +46,13 @@ From inside the Digital Ocean dashboard, you can invoke a command line console f
 
 **Step 2.** Next, you should add 1 GB of swap space to the system. This may be needed during the initial sync of the PIVX blockchain. To add 1 GB swap space to your VPS, follow the instructions here: [https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04).
 
-**Step 3.** Get the latest PIVX wallet software (5.3.2 at the time of this writing) using the following command:
+**Step 3.** Get the latest PIVX wallet software using the following command:
 
-`cd ~ && wget https://github.com/PIVX-Project/PIVX/releases/download/v5.3.2/pivx-5.3.2-x86_64-linux-gnu.tar.gz`
-
-If the latest release is something other than 5.3.2, replace “5.3.2” with the latest version number in the two places it is mentioned in the above line and similar places in the following steps—if past naming trends hold, this will work.
+`cd ~ && wget https://github.com/PIVX-Project/PIVX/releases/download/v[version]/pivx-[version]-x86_64-linux-gnu.tar.gz`
 
 **Step 4.** Untar and unzip the file you just downloaded to install the wallet software:
 
-`tar -zxvf pivx-5.3.2-x86_64-linux-gnu.tar.gz`
+`tar -zxvf pivx-[version]-x86_64-linux-gnu.tar.gz`
 
 **Step 5.** Generate a Masternode private key using the Secure PIVX Masternode Tool (SPMT) software. First, download the SPMT software from [https://github.com/PIVX-Project/PIVX-SPMT](https://github.com/PIVX-Project/PIVX-SPMT), install, and run it. Then in the main window, click the “New Masternode” button to begin configuring a new masternode. It will bring up the following GUI:
 
@@ -89,11 +87,11 @@ There are five entries in the above, marked with <> angle braces. These you will
 
 **Step 7.** Install the sapling parameters that are used by PIVX’s cryptographic algorithms using the following command:
 
-`cd ~/pivx-5.3.2/ && ./install-params.sh`
+`cd ~/pivx-[version]/ && ./install-params.sh`
 
 **Step 8.** Start the wallet software using the following:
 
-`cd ~/pivx-5.3.2/bin && ./pivxd`
+`cd ~/pivx-[version]/bin && ./pivxd`
 
 **Step 9.** Monitor and verify the running masternode software by watching the tail end of the debug.log file. This log file holds a variety of debug and progress status messages that are generated while the software runs. (Do not be alarmed by recurring notices of networking warnings, which are common and generally recoverable.) Here is the command to watch the ongoing new activity of the log file:
 
@@ -125,7 +123,7 @@ After you have exactly 10,000 from a single transaction available on Ledger Live
 
 **Step 8.** Optionally, confirm the launch on the VPS masternode wallet by entering the following at the Linux prompt inside the console window for the VPS:
 
-`cd ~/pivx-5.3.2/bin && ./pivx-cli getmasternodestatus`
+`cd ~/pivx-[version]/bin && ./pivx-cli getmasternodestatus`
 
 You should get error-free information that includes the address holding 10,000 PIV and an affirming message.
 

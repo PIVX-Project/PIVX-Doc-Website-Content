@@ -14,7 +14,7 @@ The process to launch the PIVX Core Wallet in command line is called pivxd and c
 
 The base command to launch the pivx core wallet is:
 
-	pivx-5.3.0/bin/pivxd -daemon
+	pivx-[version]/bin/pivxd -daemon
 
 The pivxd process accepts multiple command line options, that can be listed (along with their description) using the following command:
 
@@ -39,8 +39,8 @@ The pivxd server logs all its activities in the following file:
 Description=PIVX_MN
 After=network.target [Service]
 User=piv
-ExecStart=/home/piv/pivx-5.3.2/bin/./pivxd -daemon
-ExecStop=/home/piv/pivx-5.3.2/bin/./pivx-cli stop
+ExecStart=/home/piv/pivx-[version]/bin/./pivxd -daemon
+ExecStop=/home/piv/pivx-[version]/bin/./pivx-cli stop
 TimeoutSec=15min
 Type=forking
 Restart=on-failure
@@ -70,11 +70,11 @@ The process to access the PIVX Core Wallet in command line is called pivx-cli an
 
 The following command line lists all the available options, sorted by theme:
 
-	pivx-5.3.0/bin/pivx-cli help
+	pivx-[version]/bin/pivx-cli help
 
 The help function can also be used to access the documentation page for a particular command line option. For example the following returns the help page for the **getinfo** command:
 
-	pivx-5.3.0/bin/pivx-cli help getinfo
+	pivx-[version]/bin/pivx-cli help getinfo
 	
 ### Useful commands
 
