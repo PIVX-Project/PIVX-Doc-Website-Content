@@ -32,7 +32,7 @@ The first thing you will need is a wallet to hold your PIV. The PIVX Core Wallet
 
 Visit the [PIVX Core Wallet](/pivx-core-wallet) page and decide if it's the right solution for you!
 
-You can also choose a thirdparty wallet, some of which are mentioned in [Mobile & Hardware Wallets](/mobile-hardware-wallets).
+You can also choose a third party wallet, some of which are mentioned in [Mobile & Hardware Wallets](/mobile-hardware-wallets).
 
 ## Buying PIVX
 

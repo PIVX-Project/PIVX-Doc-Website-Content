@@ -14,7 +14,7 @@ taxonomy:
   * The latest PIVX wallet from https://pivx.org​/downloads
   * Download and install PET4L (PIVX Emergency Tool For Ledger) from https://github.com/PIVX-Project/PET4L/releases​
 
-![1.hw-wallet.png](1.hw-wallet.png?classes=center,img-fluid,py-4)
+![1.hw-wallet.png](1.hw-wallet.png?classes=img-fluid,py-4)
 
 Using the image above as a reference, follow these steps:
 1. Unlock the PIVX core wallet, choose "Unlock Wallet" from small drop down menu​
