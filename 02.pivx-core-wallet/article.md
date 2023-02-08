@@ -21,7 +21,7 @@ The PIVX Core Wallet is the cornerstone of the PIVX ecosystem, and its most esse
 
 ## System Requirements:
 
-The PIVX core wallet runs on all the most common operating systems. The officially supported OSes, for which executables/installers are provided are Windows, Linux and MacOS.  
+The PIVX core wallet runs on most common operating systems. The officially supported OSes, for which executables/installers are provided are Windows, Linux and MacOS.  
 
 Hardware requirements are reasonable as well. The minimum recommended specifications are:
   * A single-core CPU
@@ -33,4 +33,4 @@ If you want to [stake your PIVs](/staking), you will need your wallet to be conn
 In addition to the above requirements, [running a masternode](/masternodes-and-governance) requires:
 * 10,000 PIV
 * 24/7 connection to the internet
-* A fixed IP address (per masternode)
+* A fixed/static IP address per masternode
