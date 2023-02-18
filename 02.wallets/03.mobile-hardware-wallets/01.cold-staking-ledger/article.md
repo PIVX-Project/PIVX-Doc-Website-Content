@@ -7,7 +7,7 @@ taxonomy:
         - 'The PIVX Team'
 ---
 
-! NOTE: The following guide is for Ledger hardware wallets ONLY. Do NOT use Trezor addresses for cold staking, as PET4L software cannot currently spend P2CS utxos.
+!!! **NOTE** - The following guide is for Ledger hardware wallets ONLY. Do NOT use Trezor addresses for cold staking as PET4L software cannot currently spend P2CS utxos.
 
 **Prerequisites:**
   * A Ledger wallet with the PIVX app installed​

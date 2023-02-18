@@ -30,7 +30,7 @@ Hardware requirements are reasonable as well. The minimum recommended specificat
 
 If you want to [stake your PIVs](/staking), you will need your wallet to be connected to the internet 24/7, on a relatively fast connection. If this is not possible, consider [Cold Staking](/staking/cold-staking) using a third party.  
 
-In addition to the above requirements, [running a masternode](/masternodes-and-governance) requires:
+In addition to the above requirements, [running a masternode](/masternodes) requires:
 * 10,000 PIV
 * 24/7 connection to the internet
 * A fixed/static IP address per masternode

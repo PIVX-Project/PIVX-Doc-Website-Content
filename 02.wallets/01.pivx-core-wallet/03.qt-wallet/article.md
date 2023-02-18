@@ -10,7 +10,6 @@ media_order: '1.Homepage.png,cold-staking.png,contacts.png,masternodes.png,recei
 
 The **PIVX QT Wallet** is a GUI (graphic user interface) version of the PIVX core wallet and works on most desktop operating systems.  The following image is from the **Home** tab:
 
-![1.Homepage.png](1.Homepage.png?classes=center,img-fluid)
 ![qt-home.png](qt-home.png?classes=center,img-fluid)
 
 The RED annotations in the image above refer to the following:  

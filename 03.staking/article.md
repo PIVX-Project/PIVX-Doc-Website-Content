@@ -52,4 +52,4 @@ If hot staking is not practical for you, then go ahead and delegate your PIVs fo
 !!! **NOTE** - Cold Staking makes it slightly more cumbersome to spend your PIVs. If you transact with your PIVs a lot then hot staking might be the best option for you.
 
 ### Troubleshooting Staking Issues
-For any issues related to staking activation / rewards, please make sure you read the relevant FAQ at [Troubleshooting Staking](/staking/staking-faq)
+For any issues related to staking activation / rewards, please make sure you read the relevant FAQ at [Troubleshooting Staking](/staking/faq)

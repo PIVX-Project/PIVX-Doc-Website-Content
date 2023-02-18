@@ -2,7 +2,7 @@
 title: 'Drafting a Proposal'
 ---
 
-It's a good and recommended practice to post a draft or pre-proposal on the [PIVX forum](https://forum.pivx.org) to obtain feedback from the community prior to submitting the proposal to the network. This allows you to adjust your proposal for things you may not have considered.
+qwqwqwqwqwIt's a good and recommended practice to post a draft or pre-proposal on the [PIVX forum](https://forum.pivx.org) to obtain feedback from the community prior to submitting the proposal to the network. This allows you to adjust your proposal for things you may not have considered.
 
 This forum post has excellent recommendations, tips and tricks on how to format your your pre-proposal and also makes it easier for masternode owners to decide on your proposal:
 * [Guidelines for Submitting a Pre-Proposal](https://forum.pivx.org/threads/guidelines-for-submitting-a-pre-proposal.235/)

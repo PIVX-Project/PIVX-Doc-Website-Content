@@ -1,6 +1,5 @@
 ---
 title: Wallets
-media_order: 'wallets.png,wallets.webp'
 ---
 
 Explore different wallets to store your PIVX.
@@ -10,28 +9,30 @@ Explore different wallets to store your PIVX.
 When it comes to wallets, you have options!  For some, it may even make sense to have multiple wallets. Your task is to find out which one works best for you.
 
 ## PIVX Core Wallet
-The PIVX Core wallet is the standard PIVX wallet.  While it is the most feature rich wallet available, it runs on a PC or VPS (Virtual Private Server) running Windows, Linux, or macOS which makes mobile transactions very cumbersome.  
+The **[PIVX Core wallet](/wallets/pivx-core-wallet)** is the standard PIVX wallet.  While it is the most feature rich wallet available, it runs on a PC or VPS (Virtual Private Server) running Windows, Linux, or macOS which makes mobile transactions very cumbersome.  
 
 **Pros**
 * Decentralized and does not require a third party to facilitate transactions
 * Can operate as a Masternode server or controller
 * Can operate as a Cold Staking Node
-* Can Perform Both Shield and Transparent Transaction
+* Can Perform Both Shield and Transparent Transactions
 * Supports Sheilded Memo features
+* Non-Custodial
 
 **Cons:**  
 * Not mobile friendly
 
 
 ## MyPIVXWallet
-MyPIVXWallet, also known as MPW, is a non-custodial light wallet which works within a browser.  Therefore, it is not necessary to download the entire blockchain.  MPW is under heavy development and features and improvements are always being added.
+**[MyPIVXWallet](/wallets/my=pivx-wallet)**, also known as **MPW**, is a non-custodial light wallet which works completely from within a standard web browser.  Therefore, it is not necessary to download the entire blockchain. MPW is under heavy development and features and improvements are always being added.
 
 **Pros**
-* Very fast 
+* Very fast and lightweight 
 * Works on most desktop and mobile browsers
 * Very low data consumption
 * Can Cold Stake
 * Can be used as a Masternode controller
+* Non-Custodial
 
 **Cons:**  
 * Does not support Shielded Transactions
@@ -39,17 +40,36 @@ MyPIVXWallet, also known as MPW, is a non-custodial light wallet which works wit
 * Can not operate as a Masternode server
 
 ## Third Party Wallets
+A third-party wallet is just a wallet that was not created by PIVX developers.  These wallets can come in many different forms such as:  
+* A hardware device (such as Ledger)
+* A desktop app
+* An Android or iOS mobile app
 
-### Ledger Hardware Wallet
+The [PIVX downloads](https://pivx.org/downloads) page provides a list of third-party wallets that are known to support PIVX.  Note that most third-party wallets do not support the full functionality of the PIVX Core wallet. Third party wallets may also be Custodial (see FAQ below)
 
-### Coinomi
+[tabs]
+[tab title="Ledger"]
+[Ledger](https://www.ledger.com/) is a hardware wallet device. A Ledger device keeps your private keys in a completely offline environment isolated from your internet connection which can protect your private keys from hackers and malware.  Your PIVX on a Ledger device can be accessed several ways:  
+* Ledger Live - https://www.ledger.com/ledger-live
+* MyPIVXWallet
+* [PET4L](https://github.com/PIVX-Project/PET4L/releases/latest) and [SPMT](https://github.com/PIVX-Project/PIVX-SPMT/releases/latest) Software
 
+**Pros**
+* Can hold PIVX in addition to other cryptocurrencies
+* Works on desktop and mobile devices
+* Non-Custodial
+
+**Cons:**  
+* Shielded transactions not available
+
+[/tab]
+[tab title="Coinomi"]
 The Coinomi wallet is a multi asset wallet that works on desktop or mobile hardware.  
 
 **Pros**
 * Can hold PIVX in addition to other cryptocurrencies
-* Works on mobile devices
-
+* Works on desktop and mobile devices
+* Non-Custodial
 
 **Cons:**  
 * Requires a single third party to complete transactions
@@ -58,8 +78,52 @@ The Coinomi wallet is a multi asset wallet that works on desktop or mobile hardw
 * Masternodes not available
 * Shielded transactions not available
 * Lacks coin control
-* 
-### Flits App
+[/tab]
+[tab title="Flits App"]
+Flits App is a mobile wallet.  
 
+**Pros**
+* Can hold PIVX in addition to other cryptocurrencies
+* Android and iOS app available
+* Non-Custodial
 
-```{{ page.content|slice(page.summary|length) }}```
+**Cons:**  
+* Requires a single third party to complete transactions
+* Very slow to update
+* Shielded transactions not available
+* Lacks coin control
+[/tab]
+[tab title="CoinSpot"]
+CoinSpot is a web wallet  
+
+**Pros**
+* Can hold PIVX in addition to other cryptocurrencies
+* Works on desktop and mobile devices
+
+**Cons:**  
+* Requires a single third party to complete transactions
+* Very slow to update
+* Staking not available
+* Masternodes not available
+* Shielded transactions not available
+* Lacks coin control
+* Custodial
+[/tab]
+[/tabs]
+
+!! **WARNING** - Please make sure to do your own research and due diligence prior to trusting a third-party service with your keys to limit the risk of losing your coins!
+
+### Wallet FAQs
+
+[faqs]
+[faq question="Non-Custodial VS Custodial Wallets"]
+PIVX wallets can be broken out into two different types:
+* Non-Custodial Wallet (preferred)
+* Custodial Wallet
+
+With a Non-Custodial wallet, like the PIVX Core wallet or MPW, you are the only one with access to your private keys, therefore, you also have complete control over your PIVX.
+
+In contrast, a custodial wallet is a wallet where the third-party has complete control over your private keys and therefore, your PIVX.
+[/faq]
+[/faqs]
+

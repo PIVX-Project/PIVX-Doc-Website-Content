@@ -36,7 +36,7 @@ Ordered by popularity:
 * Twitter (official): https://twitter.com/_pivx
 * Twitter (community): https://twitter.com/PIVXcommunity
 * Telegram: https://t.me/pivxchat
-* Instagram:https://www.instagram.com/pivxcrypto
+* Instagram: https://www.instagram.com/pivxcrypto
 * Facebook: https://www.facebook.com/PIVXCrypto
 * Reddit: https://reddit.com/r/pivx
 * Linkedin: https://ca.linkedin.com/company/pivx
