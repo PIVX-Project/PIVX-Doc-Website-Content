@@ -16,8 +16,9 @@ Make sure your wallet is fully synchronized. If your wallet is partially synchro
 zPIVs have been retired several years ago following the change of protocol from Zerocoin to Shield. The grace period that was provided for recovery is now over so any zPIV not transfered before that date cannot be recovered.
 [/faq]
 [faq question="How do I backup my Wallet?"]
-### Backup Using PIVX Core QT Wallet
-![1.backup_wallet.png](1.backup_wallet.png?classes=center,img-fluid)
+### Backup Using PIVX Core QT Wallet  
+
+![1.backup_wallet.png](1.backup_wallet.png?classes=center,img-fluid,py-5&cropResize=900,900&quality=75)
 
 From the PIVX Core QT wallet as above:
 1. Select "SETTINGS"
@@ -60,7 +61,7 @@ The first step is to confirm whether you are on the right chain. To do so, follo
 
 If you're using the QT wallet, the steps are all summarized on the picture below:  
 
-![2.fork_check.png](2.fork_check.png?classes=center,img=fluid)  
+![2.fork_check.png](2.fork_check.png?classes=center,img-fluid,py-5&cropResize=900,900&quality=75)
 
 [/faq]
 [faq question="How did my Core Wallet end up being on a forked chain?"]

@@ -11,7 +11,7 @@ Your journey with PIVX starts here!
 
 ===
 
-Welcome to the PIVX Documentation website where you will find guides, tutorials, and FAQs!
+Welcome to the PIVX Documentation website which is loaded with guides, tutorials, and FAQs!
 
 If you are unable to find the help you need, feel free to join the active community on the [PIVX Discord](https://discord.pivx.org/) server or visit the [Community](/community) page which lists many other community resources.
 
@@ -19,17 +19,17 @@ If you are unable to find the help you need, feel free to join the active commun
 
 PIVX (Protected Instant Verification Transaction) is a privacy-centric cryptocurrency that introduced the world's first zk-SNARKs based financial data protection protocol on a Proof of Stake blockchain in 2020. This protocol was given the name SHIELD and was announced on November 5th, 2020.
 
-If you want to learn more about PIVX, visit our official website https://pivx.org/ and read the [PIVX Economics Whitepaper](https://pivx.org/economics).  
+If you want to learn more about PIVX, visit our official website at https://pivx.org/ and read the [PIVX Economics Whitepaper](https://pivx.org/economics).  
 
 [plugin:youtube](https://www.youtube.com/embed/bS0949CgF_Q)
 
 ## Getting Started with PIVX
 
-The first thing you will need is a wallet to hold your PIV. The [wallets](/wallets) page can help you decide which wallet may be best suited for you.
+The first thing you will need is a wallet to hold your PIVs. The [wallets](/wallets) page can help you decide which wallet may be best suited for you.
 
 ## Buying PIVX
 
-Current exchanges are maintained on the [Exchanges](https://pivx.org/exchanges) page of the official website.  There are options to buy PIVX with fiat currency or by trading other crypto-currencies into PIVX.  It is always recommended to transfer your PIV from the exchange to your own wallet.  This ensures that if an exchange fails or is shutdown, your PIVX remain secure in your own custody.
+Current exchanges are maintained on the [Exchanges](https://pivx.org/exchanges) page of the official website.  There are options to buy PIVX with fiat currency or by trading other crypto-currencies into PIVX.  It is always recommended to transfer your PIVs from the exchange to your own wallet. This ensures that if an exchange fails or is shutdown, your PIVX remain secure in your own custody.
 
 ## Earning PIVX (The Rewards System)
 

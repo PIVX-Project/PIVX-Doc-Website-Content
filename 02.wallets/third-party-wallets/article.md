@@ -1,5 +1,5 @@
 ---
-title: 'Mobile & Hardware Wallets'
+title: 'Third Party Wallets'
 taxonomy:
     category:
         - 'Mobile Wallets'

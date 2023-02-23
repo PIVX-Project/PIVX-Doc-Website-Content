@@ -9,7 +9,7 @@ Resources to help you connect, socialize, and get help with PIVX.
 
 Welcome to the PIVX Community!  
 
-PIVX is well known for having one of the friendliest crypto communities.  Whether you are brand new to PIVX and cryptocurrency or a seasoned expert, you are welcome to join our dedicated global community of friendly and passionate people known as **PIVians**. 
+PIVX is well known for having one of the friendliest crypto communities.  Whether you are new to PIVX and cryptocurrency or a seasoned expert, you are welcome to join our dedicated global community of friendly and passionate people known as **PIVians**. 
 
 ### Safety First
 * PIVX Support is **_never_** given via direct messages

@@ -6,9 +6,9 @@ Once the proposal is ready, you will need to submit it to the network so that ma
 
 !!! **NOTE** - Please review the status of the current budget cycle on [PIVX Proposals](https://pivx.org/proposals) prior to submitting the proposal. Make sure masternode owners will have enough time to vote on the proposal, and that there is enough budget in the next cycle to accommodate it.
 
-### Using the pivx-cli Command Line Client or the Debug Console
+### Using the pivx-cli Command Line Client _or_ the Debug Console
 
-Once you're ready to submit, run the following commands, either using the pivx-cli command line client or the debug console:
+Once you're ready to submit your proposal, run the following commands either using the pivx-cli command line client or the debug console:
 1. Obtain the next superblock (starting block) number:
 	```
 	getnextsuperblock

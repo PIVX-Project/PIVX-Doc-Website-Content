@@ -30,7 +30,7 @@ PIVX creates a new block roughly every 60 seconds.  Each of these new blocks cre
 ### Proposals Submission
 Anyone can submit a proposal (submitting a proposal costs 50PIV). It doesn't matter how you contribute to the development of the project - as a designer, ambassador or even a singer. What is important is a positive result, the forecast of which you can indicate in your proposal.
 
-It's a good and recommended practice to post a draft or pre-proposal on the [PIVX forum](https://forum.pivx.org) to obtain feedback from the community prior to submitting the proposal to the network. See the [Drafting a Proposal](governance/drafting-a-proposal) page for additional guidance.
+It's a good and recommended practice to post a draft or pre-proposal on the [PIVX forum](https://forum.pivx.org) to obtain feedback from the community prior to submitting the proposal to the network. See the [Drafting a Proposal](/governance/drafting-a-proposal) page for additional guidance.
 
 Once you are confident with your proposal, you are ready to [create and submit your proposal to the PIVX network](/governance/creating-a-proposal).
 
@@ -38,4 +38,4 @@ Once you are confident with your proposal, you are ready to [create and submit y
 Masternode owners vote for the proposals put forward. This voting is decentralized and anonymous.  If the total amount of funded proposals is above the monthly treasury's limit, the proposals with the most _yes_ votes are funded first.
 
 ### Transparent Voting
-Since PIVX takes care of each member of our community, all past, present, and upcoming proposals and the votes received for each proposal are of public record and are available for inspection at https://pivx.org/proposals.
+All past, present, and upcoming proposals and the votes received for each proposal are transparent and on public record and are available for inspection at https://pivx.org/proposals.
