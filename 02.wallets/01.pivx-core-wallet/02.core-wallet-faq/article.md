@@ -80,13 +80,12 @@ There are a few possibilities, among which:
 
 From the command line, stop the wallet then run the command `pivxd -daemon -resync`
 [/faq]
-[faq question="Does PIVX provide official blockchain snapshots? How do I create my own blockchain snapshot?"]
-No, there is no official blockchain snapshot.
+[faq question="How do I create my own blockchain snapshot?"]
+You can create your own blockchain snapshot so you don't have to download the full blockchain in case you need to reinstall the core wallet.  
 
-You 
-can however create your own if you don't want to have to download the full blockchain in case you need to reinstall the core wallet. Here are the steps:  
+Here are the steps:  
 
-1. Shut down your wallet (not doing so will result in a corrupted snapshot)
+1. Shut down your wallet (not doing so will result in a corrupted snapshot).
 2. Navigate to the the PIVX data folder. Default locations are as follows:
   * Windows: %appdata%/pivx 
   * Linux: ~/.pivx 
@@ -107,6 +106,11 @@ Should you ever need to restore your blockchain snapshot, follow this procedure:
   * Zerocoin
 3. Extract the snapshot zip file into the data folder
 4. Start wallet, the syncing will resume from the last block stored in the snapshot.
+[/faq]
+[faq question="Does PIVX provide a blockchain snapshot?"]
+For security and decentralization purposes, it is highly recommended to use your own snapshot or to sync the entire blockchain. For those with a limited bandwidth, a snapshot is available here:  
+* https://toolbox.pivx.org/snapshots
+ 
 [/faq]
 [/faqs]
 
