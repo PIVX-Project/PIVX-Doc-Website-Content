@@ -118,7 +118,7 @@ PIVX wallets can be broken out into two different types:
 
 With a Non-Custodial wallet, like the PIVX Core wallet or MPW, you are the only one with access to your private keys, therefore, you also have complete control over your PIVX.
 
-In contrast, a custodial wallet is a wallet where the third-party has complete control over your private keys and therefore, your PIVX.
+In contrast, a custodial wallet is a wallet where the third-party (someone else) has complete control over your private keys and therefore, your PIVX.  Centralized Exchanges are custodial.  It is best practice to withdraw your PIVs from the exchange once your trades are completed and that you **_NEVER_** use an exchange as a long term wallet. 
 [/faq]
 [/faqs]
 
