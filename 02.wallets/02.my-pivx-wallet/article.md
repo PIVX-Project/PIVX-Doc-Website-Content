@@ -14,3 +14,4 @@ You can find the official MPW website at https://mypivxwallet.org.
 Follow MPW progress at:
 * https://github.com/PIVX-Labs/MyPIVXWallet
 * https://medium.com/@pivx-labs
+* https://discord.gg/NkGqS9UJC8
