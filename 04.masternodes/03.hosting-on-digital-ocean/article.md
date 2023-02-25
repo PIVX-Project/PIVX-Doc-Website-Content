@@ -58,11 +58,11 @@ If the latest release is something other than [version], replace “[version]”
 **Step 5.** Generate a Masternode private key using the Secure PIVX Masternode Tool (SPMT) software. First, download the SPMT software from [https://github.com/PIVX-Project/PIVX-SPMT](https://github.com/PIVX-Project/PIVX-SPMT), install, and run it. Then in the main window, click the “New Masternode” button to begin configuring a new masternode. It will bring up the following GUI:
 
 
-![masternode-Tutorial1](51.SPMT.png?classes=center&img-fluid)
+![masternode-Tutorial1](51.SPMT.png?classes=center,img-fluid)
 
 In this GUI window, click the “Generate” button next to the "MN Priv Key" box. This will create a long string in the box that resembles the following:
 
-![masternode-Tutorial2](52.SPMT.png?classes=center&img-fluid)
+![masternode-Tutorial2](52.SPMT.png?classes=center,img-fluid)
 
 That string is the masternode private key. Though the “private key” name suggests a need for extreme care, this string is not especially sensitive. It keeps others from using your masternode software to earn masternode rewards on their own 10,000 PIV, but your 10,000 PIV are not at risk from others learning it. This masternode private key will be used in the next step, and we will return to the SPMT GUI window later, in the next section (so keep it open for now). 
 
