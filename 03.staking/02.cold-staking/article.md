@@ -11,13 +11,15 @@ taxonomy:
 
 The _Cold Wallet_ can be:
 * A PIVX Core Wallet running seperately from the _Hot Wallet_.
+* [MyPIVXWallet](/wallets/my-pivx-wallet "MyPIVXWallet")
 * A hardware wallet such as a Ledger.  Note that Trezor is currently NOT supported.
 
 The _Hot Wallet_ can be:
 * A PIVX Core Wallet running seperately from the _Cold Wallet_.
 * A PIVX Cold Staking service by a staking service provider such as:
-  * [PIVX Toolbox](https://toolbox.pivx.org/cold-staking)
-  * [AllNodes](http://www.allnodes.com)
+  * [MyPIVXWallet](/wallets/my-pivx-wallet "MyPIVXWallet")
+  * [PIVX Toolbox](https://toolbox.pivx.org/cold-staking "PIVX Toolbox")
+  * [AllNodes](http://www.allnodes.com "AllNodes")
 * A PIVX Core Wallet operated by a member of the PIVX community as a courtesy to other community members.
 
 ### Step By Step Guide - QT Client
