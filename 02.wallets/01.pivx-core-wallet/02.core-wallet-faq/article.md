@@ -110,7 +110,5 @@ Should you ever need to restore your blockchain snapshot, follow this procedure:
 [faq question="Does PIVX provide a blockchain snapshot?"]
 For security and decentralization purposes, it is highly recommended to use your own snapshot or to sync the entire blockchain. For those with a limited bandwidth, a snapshot is available here:  
 * https://toolbox.pivx.org/snapshots
- 
 [/faq]
 [/faqs]
-
