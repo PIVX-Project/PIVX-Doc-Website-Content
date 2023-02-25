@@ -13,5 +13,4 @@ While your PIVX on a Ledger hardware wallet can be accessed with the [Ledger Liv
 
 ### Tutorials
 * [Setup Cold Staking With A Ledger](/wallets/ledger-wallet/cold-staking-ledger)
-* ~~[Setup A Masternode With A Ledger](#)~~ (coming soon)
-
+* [Setup A Masternode With A Ledger](/masternodes/hosting-on-digital-ocean)
