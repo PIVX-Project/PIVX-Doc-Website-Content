@@ -3,7 +3,7 @@ title: 'My PIVX Wallet'
 media_order: mpwlogo.png
 ---
 
-![mpwlogo](mpwlogo.png?class=center,img-fluid,py-4 "mpwlogo")
+![mpwlogo](mpwlogo.png?classes=center,img-fluid,py-4 "mpwlogo")
 
 This is a placeholder page awaiting upcoming documentation.  MyPIVXWallet (MPW) is under heavy development and documention will be made available as soon as major features are finalized.
 
