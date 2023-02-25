@@ -20,12 +20,14 @@ PIVX is well known for having one of the friendliest crypto communities.  Whethe
 ### Useful PIVX Resources
 * Official Website: https://pivx.org
 * Official Github: https://github.com/PIVX-Project
+* PIVX Chat: https://discord.pivx.org
 * Documentation: https://docs.pivx.org
 * Forums: https://forum.pivx.org
 * Support: The fastest support is on [Discord](https://discord.pivx.org)
 * Wallet Downloads: https://pivx.org/downloads
 * MyPIVXWallet: https://mypivxwallet.org
 * PIVX Labs: https://github.com/PIVX-Labs
+* PIVX Labs Chat: https://discord.gg/NkGqS9UJC8
 * Block Explorer: https://zkBitcoin.com
 * Block Explorer (testnet): https://testnet.rockdev.org
 * Tools: https://toolbox.pivx.org
