@@ -35,7 +35,11 @@ The installation method differs based on the operating system being used.
   * ARM:  `tar -zxvf pivx-[version]-arm-linux-gnueabihf.tar.gz && sudo rm -f pivx-[version]-arm-linux-gnueabihf.tar.gz`  
 4. Navigate to the newly created folder `cd pivx-[version]`  
 5. **First install only:** Install the Sapling parameters by running the command `./install-params.sh`  
-6. Launch the PIVX server `./pivxd -daemon`, or the PIVX GUI client: `./pivx-qt`  
+
+6. Navigate to the **_bin_** folder: `cd bin` then start the wallet:
+  * CLI Wallet: `./pivxd -daemon` 
+  * QT Wallet: `./pivx-qt`   
+
 
 [/tab]
 [tab title="Windows"]

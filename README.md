@@ -14,7 +14,7 @@ Any pull request merged into the main branch of this repository will be deployed
 * Contributions are also accepted in the form of **Issues** or **Pull Requests** on the above repository.
 * Pull requests will be merged into the main branch after they have been reviewed.
 
-### Documentation Sctructure  
+### Documentation Structure  
 
 All documents are based on YAML frontmatter and GFM (GitHub Flavored Markdown Specification).  A few enhanced markdown features are also provided in addition to some custom shortcodes which are powered by the [Grav CMS](https://getgrav.org).   
 
@@ -45,9 +45,6 @@ YAML frontmatter is always placed at the top of the document. The only required 
 
 ```yaml
 ---
-title: 'This is My Page's Title'
-taxonomy:
-    category:
-        - 'Getting Started, etc'
+title: 'This is My Page Title'
 ---
 ```
