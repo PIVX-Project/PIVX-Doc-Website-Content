@@ -258,13 +258,9 @@ You can now proceed to start your masternode:
 startmasternode missing y
 ```
 
-Now go back to your VPS and type:
+If everything went well, you should receive the message: "Masternode successfully started"
 
-    ./pivx-cli startmasternode local false
-
-If everything went well, you should receive the following message:
-    “Masternode successfully started”
-Congratulations! You have successfully started your masternode!
+**Congratulations!** You have successfully started your masternode!
 
 ADDITIONAL NOTES:
 
