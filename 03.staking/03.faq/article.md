@@ -15,7 +15,7 @@ Please start by making sure you meet all the requirements listed on the [Staking
 [/faq]
 [faq question="I have been staking XXX PIVs for YYY days and haven't received a reward yet. Is anything broken?"]
 Verify the staking status of your core wallet or of your staking provider. If active, your next best option is to give it time, as the frequency on which a staker will receive rewards is completely random. A staking calculator can provide you with an expected return/staking frequency that can help manage your expectations:
-* ~~https://pivx.org/proof-of-stake~~ (out of date)
+* https://pivx.org/proof-of-stake
 * https://toolbox.pivx.org/rewards
 [/faq]
 [faq question="I just received a staking reward and my staking balance is now down to zero. What is happening?"]

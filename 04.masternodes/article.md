@@ -17,7 +17,7 @@ Unlike PIVX Stakers who receive rewards at random, masternode rewards are more p
 
 You can estimate your annual returns over a period of time by dividing that time in minutes by the estimated number of masternodes to get the number of rewards and then multiplying that by 6 to get the number of PIV. For example, for around 1600 masternodes over 30 days, your masternode will receive approximately (minutes/masternodes)x6 = (30x24x60/1600)x6 = 162 PIV.  Here are some tools that help calculate masternode rewards:  
 
-* ~~https://pivx.org/masternodes~~(currently not up to date) 
+* https://pivx.org/masternodes 
 * https://toolbox.pivx.org/rewards
 
 
