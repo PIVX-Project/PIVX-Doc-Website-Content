@@ -17,7 +17,7 @@ Stakers are responsible for adding new blocks to the blockchain and receive rewa
 
 The frequency on which you can expect to receive rewards depends on the amount you are staking. These calculators can be used to estimate your rewards potential:
 
-* ~~https://pivx.org/proof-of-stake~~ (calculator requires updating)
+* https://pivx.org/proof-of-stake
 * https://toolbox.pivx.org/rewards
 
 !!! **NOTE** - The frequency with which a staker will receive rewards is random. The output of these calculators are indicative only. 
