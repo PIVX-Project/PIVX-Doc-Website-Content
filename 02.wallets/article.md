@@ -30,13 +30,13 @@ The **[PIVX Core wallet](/wallets/pivx-core-wallet)** is the standard PIVX walle
 * Very fast and lightweight 
 * Works on most desktop and mobile browsers
 * Very low data consumption
+* Can Perform Both Shield and Transparent Transactions
 * Can Cold Stake
 * Can be used as a Masternode controller
 * Non-Custodial
 
 **Cons:**  
-* Does not support Shielded Transactions
-  * however, it is currently being developed 
+
 * Can not operate as a Masternode server
 
 ## Hardware Wallets
@@ -47,7 +47,7 @@ A Ledger device keeps your private keys in a completely offline environment isol
 **Pros:**
 * Can hold PIVX in addition to other cryptocurrencies
 * Works on desktop and mobile devices
-* Non-Custodial
+* Non-Custodial  
 
 **Cons:**  
 * Shielded transactions currently not available
@@ -55,49 +55,62 @@ A Ledger device keeps your private keys in a completely offline environment isol
 ## Third Party Wallets
 A third-party wallet is just a wallet that was not created by PIVX developers.  These wallets can come in many different forms such as a desktop app or an Android or iOS mobile app.
 
-The [PIVX downloads](https://pivx.org/downloads) page provides a list of third-party wallets that are known to support PIVX.  Note that most third-party wallets do not support the full functionality of the PIVX Core wallet. Third party wallets may also be Custodial (see FAQ below).
+The [PIVX downloads](https://pivx.org/downloads) page provides a list of third-party wallets that are known to support PIVX.  Note that most third-party wallets do not support the full functionality of the PIVX Core wallet or MyPIVXWallet. Third party wallets may also be Custodial (see FAQ below).
 
 [tabs]
-[tab title="Coinomi"]
-The Coinomi wallet is a multi asset wallet that works on desktop or mobile hardware.  
+[tab title="Arctic"]
+The [Arctic wallet](https://arcticwallet.io/) is a multi asset wallet that works on desktop or mobile hardware.  
 
 **Pros:**
 * Can hold PIVX in addition to other cryptocurrencies
 * Works on desktop and mobile devices
 * Non-Custodial
+* In-app exchange
 
 **Cons:**  
-* Requires a single third party to complete transactions
-* Very slow to update
 * Staking not available
 * Masternodes not available
 * Shielded transactions not available
-* Lacks coin control
 [/tab]
-[tab title="Flits App"]
-Flits App is a mobile wallet.  
+[tab title="Komodo"]
+[Komodo wallet](https://komodoplatform.com/en/wallets.html) is a secure wallet and non-custodial
+decentralized exchange rolled into one application. Komodo is a multi asset wallet that works on desktop or mobile hardware.  
 
-**Pros:**
+**Pros:**  
 * Can hold PIVX in addition to other cryptocurrencies
-* Android and iOS app available
+* Works on desktop and mobile devices
 * Non-Custodial
+* In-app exchange
 
 **Cons:**  
-* Requires a single third party to complete transactions
-* Very slow to update
+* Staking not available
+* Masternodes not available
 * Shielded transactions not available
-* Lacks coin control
+[/tab]
+[tab title="NOW Wallet"]
+With [NOW Wallet](https://walletnow.app/) you can store, buy, exchange and stake in a secured mobile and desktop app.
+40+ blockchains and thousands of tokens available. Apps are available for desktop and mobile hardware.  
+
+**Pros:**  
+* Can hold PIVX in addition to other cryptocurrencies
+* Works on desktop and mobile devices
+* Non-Custodial
+* In-app exchange
+
+**Cons:**  
+* Staking not available
+* Masternodes not available
+* Shielded transactions not available
 [/tab]
 [tab title="CoinSpot"]
-CoinSpot is a web wallet  
+CoinSpot is a custodial multicoin web wallet (see FAQ below). You can buy, sell and swap into any other coin or token available on the platform. 
 
-**Pros:**
+**Pros:**  
 * Can hold PIVX in addition to other cryptocurrencies
 * Works on desktop and mobile devices
 
 **Cons:**  
 * Requires a single third party to complete transactions
-* Very slow to update
 * Staking not available
 * Masternodes not available
 * Shielded transactions not available
