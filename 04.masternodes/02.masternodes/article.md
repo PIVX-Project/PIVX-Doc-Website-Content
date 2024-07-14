@@ -48,13 +48,13 @@ Download the most recent version of the PIVX Core wallet here:
 https://github.com/PIVX-Project/PIVX/releases/latest
 
 
-#### Step 2 – Extract and Install the Wallet
+#### Step 2 – Install the Wallet
 
-Choose the proper version for your operating system. Extract it, install and run the wallet. After starting the wallet for the first time, it will offer you to make a default PIVX data directory. Depending on your operating system, the default directory should be similar to:  
+Installation varies based on OS, please see this [document](https://docs.pivx.org/wallets/pivx-core-wallet/installing-the-pivx-core-wallet#installation) for installation assistance. Linux users, please note there are additional installation steps during initial installation. After starting the wallet for the first time, it will offer you to make a default PIVX data directory.  
 
-C:\Users\YourUsername\AppData\Roaming\PIVX
-
-The above example of default directory is for Windows installation.
+* Windows: %appdata%/pivx
+* Linux: ~/.pivx
+* MacOS: ~/Library/Application Support/PIVX
 
 If you choose your own location ensure that you record where that is.
 
@@ -90,10 +90,11 @@ First of all, make sure that you have 10,000 PIV in your wallet.
 ```
 	cd ~ && wget https://github.com/PIVX-Project/PIVX/releases/download/v[version]/pivx-[version]-x86_64-linux-gnu.tar.gz
 	tar -zxvf pivx-[version]-x86_64-linux-gnu.tar.gz && sudo rm -f pivx-[version]-x86_64-linux-gnu.tar.gz
+	cd ~/pivx-[version]/ && ./install-params.sh
 ```
 2. Open your PIVX wallet and let it sync (Skip if you already have it installed and synchronized)
 ```
-	cd ~ && cd ~/pivx-[version]/bin && ./pivxd -daemon
+	cd ~/pivx-[version]/bin && ./pivxd -daemon
 ```
 3. Generate a new PIVX address and send exactly 10K PIVX to it
 ```	
