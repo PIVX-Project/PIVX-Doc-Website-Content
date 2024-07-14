@@ -42,8 +42,10 @@ Ordered by popularity:
 * Facebook: https://www.facebook.com/PIVXCrypto
 * Reddit: https://reddit.com/r/pivx
 * Linkedin: https://ca.linkedin.com/company/pivx
+* Mastadon: https://mastodon.social/@pivxcrypto/
 
 ### Video
 * YouTube: https://youtube.com/pivxcrypto 
 * Odysee/LBRY: https://odysee.com/@pivxcommunity:5
 * TikTok: https://www.tiktok.com/@officialpivxcrypto
+* Rumble: https://rumble.com/c/c-6374694
