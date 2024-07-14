@@ -72,6 +72,19 @@ The [Arctic wallet](https://arcticwallet.io/) is a multi asset wallet that works
 * Masternodes not available
 * Shielded transactions not available
 [/tab]
+[tab title="Coinomi"]
+The [Coinomi](https://www.coinomi.com/) is a multi asset wallet that works on desktop or mobile hardware.  
+
+**Pros:**
+* Can hold PIVX in addition to other cryptocurrencies
+* Works on desktop and mobile devices
+* Non-Custodial
+
+**Cons:**  
+* Staking not available
+* Masternodes not available
+* Shielded transactions not available
+[/tab]
 [tab title="Komodo"]
 [Komodo wallet](https://komodoplatform.com/en/wallets.html) is a secure wallet and non-custodial
 decentralized exchange rolled into one application. Komodo is a multi asset wallet that works on desktop or mobile hardware.  
@@ -103,7 +116,7 @@ With [NOW Wallet](https://walletnow.app/) you can store, buy, exchange and stake
 * Shielded transactions not available
 [/tab]
 [tab title="CoinSpot"]
-CoinSpot is a custodial multicoin web wallet (see FAQ below). You can buy, sell and swap into any other coin or token available on the platform. 
+[CoinSpot](https://www.coinspot.com.au/) is a custodial multicoin web wallet (see FAQ below). You can buy, sell and swap into any other coin or token available on the platform. 
 
 **Pros:**  
 * Can hold PIVX in addition to other cryptocurrencies
