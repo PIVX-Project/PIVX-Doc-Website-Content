@@ -73,7 +73,7 @@ The [Arctic wallet](https://arcticwallet.io/) is a multi asset wallet that works
 * Shielded transactions not available
 [/tab]
 [tab title="Coinomi"]
-The [Coinomi](https://www.coinomi.com/) is a multi asset wallet that works on desktop or mobile hardware.  
+The [Coinomi](https://www.coinomi.com/) wallet is a multi asset wallet that works on desktop or mobile hardware.  
 
 **Pros:**
 * Can hold PIVX in addition to other cryptocurrencies
