@@ -84,6 +84,9 @@ The [Coinomi](https://www.coinomi.com/) wallet is a multi asset wallet that work
 * Staking not available
 * Masternodes not available
 * Shielded transactions not available
+
+!!! **NOTICE** - In the past, Coinomi has been very slow to upgrade mandatory wallet updates.  Some question their safety and security practices. Use at your own risk! 
+
 [/tab]
 [tab title="Komodo"]
 [Komodo wallet](https://komodoplatform.com/en/wallets.html) is a secure wallet and non-custodial
