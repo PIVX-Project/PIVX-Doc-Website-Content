@@ -31,7 +31,7 @@ The installation method differs based on the operating system being used.
   * Intel/AMD: `wget https://github.com/PIVX-Project/PIVX/releases/download/v[version]/pivx-[version]-x86_64-linux-gnu.tar.gz`  
   * ARM: `wget https://github.com/PIVX-Project/PIVX/releases/download/v[version]/pivx-[version]-arm-linux-gnueabihf.tar.gz`  
 3. Unzip the archive:
-  * Intel.AMD: `tar -zxvf pivx-[version]-aarch64-linux-gnu.tar.gz && sudo rm -f pivx-[version]-x86_64-linux-gnu.tar.gz`  
+  * Intel.AMD: `tar -zxvf pivx-[version]-x86_64-linux-gnu.tar.gz && sudo rm -f pivx-[version]-x86_64-linux-gnu.tar.gz`  
   * ARM:  `tar -zxvf pivx-[version]-arm-linux-gnueabihf.tar.gz && sudo rm -f pivx-[version]-arm-linux-gnueabihf.tar.gz`  
 4. Navigate to the newly created folder `cd pivx-[version]`  
 5. **First install only:** Install the Sapling parameters by running the command `./install-params.sh`  
