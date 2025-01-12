@@ -72,7 +72,7 @@ The installation method differs based on the operating system being used.
 
 The first time you run the PIVX Core Wallet, the entire PIVX blockchain will be downloaded locally and verified. This will take approximately 5+/- hours with a fast internet connection, and will require approximately 20GB of space on disk.
 
-An empty wallet will also be created and stored in a **wallet.dat** file located in the [PIVX data folder]( /wallets/pivx-core-wallet/default-data-folder).
+An empty wallet will also be created and stored in a **wallet.dat** file located in the [PIVX data folder]( /wallets/pivx-core-wallet/default-data-folder.
 
 ### Upgrades
 
