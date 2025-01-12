@@ -17,7 +17,7 @@ The **pivxd** process accepts multiple command line options that can be listed (
 
 `pivxd --help`  
 
-When no options are specified, the **pivxd** process will use default values for all parameters (such as data folder, log file, etc.), or the ones specified in the pivx.conf file.  
+When no options are specified, the **pivxd** process will use default values for all parameters (such as [data folder]( /wallets/pivx-core-wallet/default-data-folder), log file, etc.), or the ones specified in the pivx.conf file.  
 
 The **pivxd** server logs all of its activities in the `$PIVX_HOME/debug.log` file.  
 
